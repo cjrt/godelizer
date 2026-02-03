@@ -1,5 +1,7 @@
 ## Godelizer
 
+<img width="1083" height="637" alt="image" src="https://github.com/user-attachments/assets/938c9749-6ac3-436e-bd0a-22a5ad695397" />
+
 In the 1920s, mathematicians around the world were racing to resolve three fundamental questions lying at the very heart of mathematics.
 
 Is mathematics complete?
@@ -47,6 +49,14 @@ Not only individual formulas, but entire proofs—and even the axioms themselves
 For example, Peano’s first axiom,
 ¬(Sx=0),
 can be encoded as a single natural number using the same Gödelization process applied to any other formula.
+
+## Dependencies 
+
+Uses sympy and NiceGUI
+
+https://www.sympy.org/en/index.html
+
+https://nicegui.io/
 
 
 
