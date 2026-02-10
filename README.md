@@ -1,6 +1,6 @@
 ## Godelizer
 
-<img width="1083" height="637" alt="image" src="https://github.com/user-attachments/assets/938c9749-6ac3-436e-bd0a-22a5ad695397" />
+<img width="1209" height="454" alt="godelproof" src="https://github.com/user-attachments/assets/dd318cf2-6f0a-47fa-964b-ce32435546b0" />
 
 In the 1920s, mathematicians around the world were racing to resolve three fundamental questions lying at the very heart of mathematics.
 
@@ -19,6 +19,8 @@ For example, assigning the Gödel number
 2 to the symbol 
 0 and 1 to the successor symbol S would not break the system. 
 However, changing the encoding after formulas have already been generated will make those Gödel numbers incompatible—so it is best to choose an encoding scheme once and stick with it.
+
+<img width="1083" height="637" alt="image" src="https://github.com/user-attachments/assets/938c9749-6ac3-436e-bd0a-22a5ad695397" />
 
 ## Godel numbers
 
