@@ -48,7 +48,7 @@ and raise it to the power of the godel number of the equation.
 The remarkable feature of Gödel numbering is that it allows all of mathematics to be encoded as numbers.
 Not only individual formulas, but entire proofs—and even the axioms themselves—can be represented arithmetically.
 
-For example, Peano’s first axiom,
+For example, one of Peano’s axiom,
 ¬(Sx=0),
 can be encoded as a single natural number using the same Gödelization process applied to any other formula.
 
