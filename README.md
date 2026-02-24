@@ -2,17 +2,6 @@
 
 <img width="1209" height="454" alt="godelproof" src="https://github.com/user-attachments/assets/dd318cf2-6f0a-47fa-964b-ce32435546b0" />
 
-In the 1920s, mathematicians around the world were racing to resolve three fundamental questions lying at the very heart of mathematics.
-
-Is mathematics complete?
-Can every true mathematical statement be proven from a finite set of axioms?
-
-Is mathematics consistent?
-Can the axioms of mathematics be guaranteed never to lead to a contradiction?
-
-Is mathematics decidable?
-Does there exist a procedure that can determine whether any given mathematical statement is provable from the axioms?
-
 Gödelizer is a program that assigns Gödel numbers to user input by encoding mathematical symbols and formulas as natural numbers. The specific numerical assignment of symbols is arbitrary: as long as every symbol is assigned a unique number, the encoding is valid.
 
 For example, assigning the Gödel number 
